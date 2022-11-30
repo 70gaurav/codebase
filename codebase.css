@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 150px;
+    font-weight: 900;
+    font-size: 20px;
+}
+.logo img{
+    height: 25px;
+    width: 130px;
+}
+.menu ul{
+    display: flex;
+    list-style: none;
+}
+.menu a{
+    text-decoration: none;
+    margin: 0 30px;
+    color: black;
+}
+.hire a{
+    color: white;
+    background-color: blue;
+    padding: 8px 25px;
+    border-radius: 7px;
+}
+.s1{
+    display: flex;
+    margin: 40px 150px;
+}
+.s1l{
+    width: 42%;
+    margin-top: 105px;
+}
+.s1l h1{
+    font-size: 50px;
+}
+.s1l p{
+    margin: 50px 0;
+}
+.s1l a{
+    background-color: blue;
+    text-decoration: none;
+    color: white;
+    padding: 8px 25px;
+    border-radius: 7px;
+    font-size: 20px;
+}
+.s1r img{
+    width: 500px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.s2{
+    margin-top: 100px;
+    text-align: center;
+}
+.s2logo img{
+    height: 60px;
+    width: 190px;
+    margin: 20px;
+    margin-top: 60px;
+}
+.s2l ul{
+    display: flex;
+}
+.s2logo3 img{
+    height: 35px; 
+    width: 160px;
+    margin:35px;
+}
+.s2logo5 img{
+    height: 60px;
+    width: 80px;
+    margin:25px;
+}
+
