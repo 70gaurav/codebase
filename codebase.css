@@ -81,4 +81,38 @@
     width: 80px;
     margin:25px;
 }
+.s3h h1{
+    margin-top: 120px;
+    text-align: center;
+    font-size: 60px;
+}
+.s3boxes{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+
+}
+.boximg img{
+    height: 150px;
+    width: 150px;
+}
+.s3box{
+    width: 280px;
+    height: 500px;
+    border: 1px solid grey;
+    text-align: center;
+    margin: 20px;
+    border-radius: 20px;
+    padding-top: 15px ;
+}
+.boxm h3{
+    margin:15px 0;
+}
+.boxm p{
+    margin: 15px px;
+}
+.p {
+    margin: 15px 15px;
+    text-align: justify;
+}
 
