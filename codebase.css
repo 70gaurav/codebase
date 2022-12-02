@@ -113,6 +113,108 @@
 }
 .p {
     margin: 15px 15px;
-    text-align: justify;
 }
+.boxl ul{
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.boxl li{
+    background-color: grey;
+    margin: 8px 5px;
+    padding: 5px 8px;
+    color: white;
+    border-radius: 20px;
+}
+.s4{
+    margin-top: 100px;
+    background: url(images/our-commitment-bg-1.jpeg) scroll no-repeat center / cover;
+    height: 100vh;
+    width: 100%;
+}
+.s4 h1{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    padding-top: 100px;
+}
+.boxess4{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 100px;
+    
+}
+.boxs4{
+    width: 22%;
+    height: 300px;
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 30px;
+}
+.boxs4 img{
+    width: 100px;
+    margin-top: 40px;
+}
+.fast h3{
+    margin-top: 55px;
+    color: white;
+    font-size: 23px;
+}
+.fast p{
+    margin: 15px 10px 0 10px;
+    color: white;
+    font-size: 20px;
+}
+.money h3{
+    margin-top: 15px;
+    color: white;
+    font-size: 23px;
+}
+.money p{
+    margin: 15px 10px 0 10px;
+    color: white;
+    font-size: 20px;
+}
+.s5{
+    background-color: rgb(221, 254, 254);
+    height:100vh;
+}
+.s5h{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+    
+}
+.s5h h1{
+    font-size: 55px;
+    padding-top: 80px;
+    width: 50%;
+    
+}
+.s5c{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 50px;
+}
+.s5c img{
+    width: 60px;
+}
+.s5b{
+    width: 25%;
+    margin: 30px;
+    
+}
+.s6h h1{
+    font-size: 55px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+
 
