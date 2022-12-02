@@ -210,10 +210,52 @@
     margin: 30px;
     
 }
+.s6c{
+    display: flex;
+    justify-content: space-around;
+}
+.s6l{
+    width: 50%;
+}
 .s6h h1{
-    font-size: 55px;
+    font-size: 60px;
     text-align: center;
     padding-top: 50px;
+}
+.s6l img{
+    width:600px;
+    margin-left: 95px;
+    margin-top: 50px;
+}
+.s6r{
+    width: 25%;
+    margin-top: 60px;
+    margin-right: 170px;
+}
+.s6r h3{
+    font-size: 25px;
+}
+.s6r p{
+    font-weight: 300;
+}
+.slm{
+    margin-top: 60px;
+}
+.count{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    color: blue;
+    border: 10px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0 0 100px;
+}
+.s6b{
+    margin: 30px;
+
+    
 }
 
 
