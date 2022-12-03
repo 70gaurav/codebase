@@ -254,9 +254,90 @@
 }
 .s6b{
     margin: 30px;
-
-    
 }
+.s7{
+    background-color: rgb(76, 76, 255);
+    text-align: center;
+    height: 300px;
+}
+.s7h{
+width: 45%;
+text-align: center;
+margin-left: 415px;
+}
+.s7h h1{
+    padding: 50px 0;
+    color: white;
+    font-size: 35px;
+}
+.s7d{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hire1 a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-weight: 900;
+    padding: 5px 10px;
+    background-color: blue;
+    border-radius: 5px;
+    margin: 0 10px;
+}
+.s7 p{
+    font-size: 20px;
+    font-weight: 900;
+    color: white;
+}
+.apply a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-weight: 900;
+    padding: 5px 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 0 15px;
+}
+.bottom{
+    background-color: blue;
+}
+.bottom h3{
+    font-size: 35px;
+    color: white;
+    margin: 60px;
+}
+.bl{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px;
+}
+.botomm{
+    padding: 150px ;
+}
+.bli ul{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    list-style: none;
+}
+.bli i{
+    color: white;
+    margin: 0 5px;
+    font-size: 30px;
+}
+.ba a{
+    color: white;
+    text-decoration: none;
+    margin: 0 5px;
+}
+.botomm p{
+    padding: 0 50px;
+    color: white;
+}
+
 
 
 
