@@ -27,7 +27,7 @@
 }
 .hire a{
     color: white;
-    background-color: blue;
+    background-color: #471aff;
     padding: 8px 25px;
     border-radius: 7px;
 }
@@ -46,7 +46,7 @@
     margin: 50px 0;
 }
 .s1l a{
-    background-color: blue;
+    background-color:  #471aff;
     text-decoration: none;
     color: white;
     padding: 8px 25px;
@@ -313,6 +313,8 @@ margin-left: 415px;
     justify-content: space-between;
     align-items: center;
     margin: 50px;
+    border-top: 1px solid white;
+    padding: 10px;
 }
 .botomm{
     padding: 150px ;
@@ -322,6 +324,7 @@ margin-left: 415px;
     justify-content:center;
     align-items: center;
     list-style: none;
+    
 }
 .bli i{
     color: white;
